@@ -34,6 +34,12 @@
 9)Then we used classifiers like naive bayes, Decision Tree, multiLayer Perceptron.
 
 #Results
-1)![image](https://user-images.githubusercontent.com/46966138/196499082-f354d6ea-fbe7-4170-9d96-feb095796fbd.png)
+1)Results using Naive Bayes
+ ![image](https://user-images.githubusercontent.com/46966138/196499082-f354d6ea-fbe7-4170-9d96-feb095796fbd.png)
+2) Results using Decision Tree
+ ![image](https://user-images.githubusercontent.com/46966138/196499770-2ee88b64-75da-46e6-9fc9-73fba454a95b.png)
+3) Results using Multi Layer Perceptron
+  ![image](https://user-images.githubusercontent.com/46966138/196499888-fc3f8adb-2543-4017-9bb3-3d55ce234ac8.png)
+
 
  
