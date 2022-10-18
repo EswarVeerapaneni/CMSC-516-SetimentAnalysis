@@ -3,7 +3,7 @@
 # Text mining frequently employs the technique of sentiment analysis. By analyzing the sentiment of the text (in this case, a tweet), using sophisticated text mining techniques, it is possible to determine if it is positive, negative, or neutral.
 
 #Installation Instructions
- 1)Install Python on you Computer. \n
+ 1)Install Python on you Computer. /n
  2)Download Anaconda Navigator. \n
  3)Launch jupyter Notebook from Anaconda Navigator.\n
  4)Upload the "Twitter sentiment analysis working 76% using TfidfVectorizer-final nlp-tf-idf (1).ipynb" in your Anaconda Navigator.\n
