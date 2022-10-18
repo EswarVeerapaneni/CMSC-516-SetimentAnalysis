@@ -40,6 +40,17 @@
  ![image](https://user-images.githubusercontent.com/46966138/196499770-2ee88b64-75da-46e6-9fc9-73fba454a95b.png)
 3) Results using Multi Layer Perceptron
   ![image](https://user-images.githubusercontent.com/46966138/196499888-fc3f8adb-2543-4017-9bb3-3d55ce234ac8.png)
+  
+#Discussion
+Comparing the results from the three classifiers produced me a results of 
+Naïve bayes :- 75.83
+Decision Tree:- 70.95
+MLP:- 77.15
+So, using MLP produced us the best accuracy
+![image](https://user-images.githubusercontent.com/46966138/196500511-40e4dd97-8bfd-48e5-9dcb-c7ade3037703.png)
 
 
- 
+#Future Work
+I want to finish my implementation of Bert and word2vec with the same three classifiers and compare the results.
+Try to use implement CNN.
+![image](https://user-images.githubusercontent.com/46966138/196500616-83d25ad6-f248-4110-b256-d5b171ffe9a9.png)
