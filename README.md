@@ -7,7 +7,7 @@ Text mining frequently employs the technique of sentiment analysis. By analyzing
  2)Download Anaconda Navigator. <br/>
  3)Launch jupyter Notebook from Anaconda Navigator.<br/>
  4)Upload the "Twitter sentiment analysis working 76% using TfidfVectorizer-final nlp-tf-idf.ipynb" in your Anaconda Navigator.<br/>
- 5)upload the dataset downloaded from kaggle into your Jupyter Notebook.<br/>
+ 5)upload the dataset downloaded from kaggle (you can find this in the data folder in this repository) into your Jupyter Notebook.<br/>
  6)Run the ipynb file on your Jupyter Notebook. <br/>
  
 # Data <br/>
